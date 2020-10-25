@@ -3,11 +3,11 @@
 Para este proyecto, se tomaron las siguientes consideraciones.
 
 * Se realizo el proyecto pensando que hay una API expuesta para consultar los datos.
-* No hay un boton de busqueda, la busqueda se realiza automaticamente 350 milisegundos despues de ingresar el ultimo caracter
+* No hay un botón de búsqueda, la búsqueda se realiza automáticamente 350 milisegundos después de ingresar el ultimo carácter
 * Solo se despliega el brand, el precio del producto, precio con descuento si corresponde, junto con la imagen.
-* No habia un diseño especificado, por ende, realice un diseño simple con la ayuda de Gatsby
-* El deploy se realiza mediante un push al repositorio y este es automaticamente desplegado por Netlify en la siguiente URL: https://romantic-chandrasekhar-106120.netlify.app/
-* Para realizar la busqueda, se sigue la misma regla que en la API. Se buscan solo con textos de 4 o mas caracteres y con busqueda de id numerico.
+* No había un diseño especificado, por ende, realice un diseño simple con la ayuda de Gatsby
+* El deploy se realiza mediante un push al repositorio y este es automáticamente desplegado por Netlify en la siguiente URL: https://romantic-chandrasekhar-106120.netlify.app/
+* Para realizar la búsqueda, se sigue la misma regla que en la API. Se buscan solo con textos de 4 o más caracteres y con búsqueda de id numérico.
 * Los test fueron realizados con JEST
 
 
@@ -26,4 +26,4 @@ Existe 1 variable de entorno en el proyecto.
 
 Variable | Descripción
 ------------ | -------------
-GATSBY_API_URL | Es la URL de la API expuesta para realizar busquedas
+GATSBY_API_URL | Es la URL de la API expuesta para realizar búsquedas

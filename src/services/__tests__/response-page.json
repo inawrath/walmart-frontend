@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id_": 2,
+      "brand": "dsaasd",
+      "description": "zlrwax bñyrh",
+      "image": "www.lider.cl/catalogo/images/babyIcon.svg",
+      "price": 130173,
+      "has_discount": true,
+      "price_discount": 65086.5
+    },
+    {
+      "id_": 238,
+      "brand": "dsaasd",
+      "description": "xhabvp ciowh",
+      "image": "www.lider.cl/catalogo/images/babyIcon.svg",
+      "price": 272633,
+      "has_discount": true,
+      "price_discount": 136316.5
+    },
+    {
+      "id_": 384,
+      "brand": "dsaasd",
+      "description": "rloorn cobij",
+      "image": "www.lider.cl/catalogo/images/smartphoneIcon.svg",
+      "price": 929313,
+      "has_discount": true,
+      "price_discount": 464656.5
+    },
+    {
+      "id_": 435,
+      "brand": "dsaasd",
+      "description": "vuaj vxdujoqz",
+      "image": "www.lider.cl/catalogo/images/homeIcon.svg",
+      "price": 462179,
+      "has_discount": true,
+      "price_discount": 231089.5
+    },
+    {
+      "id_": 677,
+      "brand": "dsaasd",
+      "description": "fsyqji ñnmso",
+      "image": "www.lider.cl/catalogo/images/electronicsIcon.svg",
+      "price": 202387,
+      "has_discount": true,
+      "price_discount": 101193.5
+    },
+    {
+      "id_": 1048,
+      "brand": "dsaasd",
+      "description": "ygyh jhfvliqf",
+      "image": "www.lider.cl/catalogo/images/toysIcon.svg",
+      "price": 78271,
+      "has_discount": true,
+      "price_discount": 39135.5
+    },
+    {
+      "id_": 1125,
+      "brand": "dsaasd",
+      "description": "pqfqtr ybmiq",
+      "image": "www.lider.cl/catalogo/images/smartphoneIcon.svg",
+      "price": 494462,
+      "has_discount": true,
+      "price_discount": 247231.0
+    },
+    {
+      "id_": 1354,
+      "brand": "dsaasd",
+      "description": "epanmt wprñd",
+      "image": "www.lider.cl/catalogo/images/babyIcon.svg",
+      "price": 940717,
+      "has_discount": true,
+      "price_discount": 470358.5
+    },
+    {
+      "id_": 1523,
+      "brand": "dsaasd",
+      "description": "lsjo knsyhsty",
+      "image": "www.lider.cl/catalogo/images/gamesIcon.svg",
+      "price": 668961,
+      "has_discount": true,
+      "price_discount": 334480.5
+    },
+    {
+      "id_": 1593,
+      "brand": "dsaasd",
+      "description": "azwan ubdehk",
+      "image": "www.lider.cl/catalogo/images/tvIcon.svg",
+      "price": 259513,
+      "has_discount": true,
+      "price_discount": 129756.5
+    },
+    {
+      "id_": 1923,
+      "brand": "dsaasd",
+      "description": "wrrgd jpzmzl",
+      "image": "www.lider.cl/catalogo/images/furnitureIcon.svg",
+      "price": 152634,
+      "has_discount": true,
+      "price_discount": 76317.0
+    },
+    {
+      "id_": 2083,
+      "brand": "dsaasd",
+      "description": "ghqslv jjcwf",
+      "image": "www.lider.cl/catalogo/images/homeIcon.svg",
+      "price": 317455,
+      "has_discount": true,
+      "price_discount": 158727.5
+    }
+  ],
+  "total": 16,
+  "page": 1,
+  "total_pages": 2
+}

@@ -119,7 +119,7 @@ const SearchPage = () => {
 
     idTimeout = setTimeout(() => {
       callSearch()
-    }, 250);
+    }, 350);
 
     return () => clearTimeout(idTimeout)
 

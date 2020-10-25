@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  font-family: "Open Sans";
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  height: 100%;
+  background: #e5e5e5;
+  color: #000000;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+footer {
+  padding: 0 0 3rem;
+}
